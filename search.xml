@@ -2,6 +2,35 @@
 <search> 
   
   
+    
+    <entry>
+      <title>Typecho字体更换</title>
+      <link href="/font.html"/>
+      <url>/font.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Typecho字体更换"><a href="#Typecho字体更换" class="headerlink" title="Typecho字体更换"></a>Typecho字体更换</h1><p>我使用的是handsome主题，其他的主题方法大同小异</p><h2 id="1-web-font"><a href="#1-web-font" class="headerlink" title="1. web font"></a>1. web font</h2><p>国外著名的有google fonts、typekit等网站，我选用的是国内的<a href="https://www.webfont.com/" target="_blank" rel="noopener">有字库</a></p><h3 id="1-1-选择喜欢的字体"><a href="#1-1-选择喜欢的字体" class="headerlink" title="1.1. 选择喜欢的字体"></a>1.1. 选择喜欢的字体</h3><p>比如这个字体：<a href="https://cdn.res.webfont.com/fonts/47797.html" target="_blank" rel="noopener">A-OTF新楷</a></p><p><img src="https://skyqin1999.oss-cn-beijing.aliyuncs.com/Wiki/Computer/Blog/typecho/font/1.png" alt="1"></p><h3 id="1-2-JS引用"><a href="#1-2-JS引用" class="headerlink" title="1.2. JS引用"></a>1.2. JS引用</h3><p><img src="https://skyqin1999.oss-cn-beijing.aliyuncs.com/Wiki/Computer/Blog/typecho/font/2.png" alt="2"></p><h2 id="2-添加js"><a href="#2-添加js" class="headerlink" title="2. 添加js"></a>2. 添加js</h2><h3 id="2-1-找到header-php"><a href="#2-1-找到header-php" class="headerlink" title="2.1. 找到header.php"></a>2.1. 找到header.php</h3><p><img src="https://skyqin1999.oss-cn-beijing.aliyuncs.com/Wiki/Computer/Blog/typecho/font/3.png" alt="3"></p><h3 id="2-2-添加"><a href="#2-2-添加" class="headerlink" title="2.2. 添加"></a>2.2. 添加</h3><p>具体操作：进入vim编辑之后，按i进入编辑模式，鼠标右键粘贴，然后Esc键退出编辑模式到底线命令模式，然后输入<code>:wq</code>写入文件并退出</p><p><img src="https://skyqin1999.oss-cn-beijing.aliyuncs.com/Wiki/Computer/Blog/typecho/font/4.png" alt="4"></p><h2 id="3-完成"><a href="#3-完成" class="headerlink" title="3. 完成"></a>3. 完成</h2><h2 id="4-问题"><a href="#4-问题" class="headerlink" title="4. 问题"></a>4. 问题</h2><p>有部分文字没有替换，夹杂着，mark</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+          <category> 博客 </category>
+          
+          <category> Typecho </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Font </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
